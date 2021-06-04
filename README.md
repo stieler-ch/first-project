@@ -1,1 +1,1 @@
-# Subindo primeiro projeto para o git apenas para teste.
+# Subindo primeiro projeto para o github apenas para teste.
